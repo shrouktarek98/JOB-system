@@ -1,0 +1,43 @@
+.aboutus {
+    margin-top: 80px;
+}
+
+.aboutus video {
+    width: 100%;
+    height: 320px;
+}
+
+.aboutus .text {
+    text-align: right;
+}
+
+.aboutus h1 {
+    margin: 50px 10px 10px;
+}
+
+.aboutus h4 {
+    color: rgb(49, 16, 238);
+}
+
+.home img {
+    margin-top: 30px;
+    width: 100%;
+    height: 710px;
+}
+
+.home .text {
+    margin: 30px 50px 10px;
+    text-align: right;
+}
+
+.home .text ul {
+    text-align: right;
+    direction: rtl;
+    padding-right: 15px;
+    margin-top: 20px;
+}
+
+.home .text h1,
+.home .text h3 {
+    color: rgb(49, 16, 238);
+}

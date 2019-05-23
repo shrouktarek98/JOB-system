@@ -1,0 +1,10 @@
+.update_post {
+    margin: 100px auto;
+    /* max-width: 600px; */
+    display: block;
+}
+
+.update_post textarea {
+    resize: both;
+    height: 80px;
+}
